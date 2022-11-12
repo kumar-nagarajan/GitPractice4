@@ -6,5 +6,6 @@ public class PracticeNew {
 		// TODO Auto-generated method stub
 
 	}
-
+public void NewMethod(){
+}
 }
